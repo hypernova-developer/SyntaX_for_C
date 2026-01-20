@@ -15,16 +15,17 @@ This project is a core member of the **SyntaX Ecosystem** by *hypernova-develope
 - `bettersyntax.h`: The main library header file.
 - `samples.c`: Example code demonstrating how to use the library.
 
+## Programmer
+hypernova-developer
+
 ## 🚀 Quick Start
 To use SyntaX in your C project, simply include the header file:
 
 ```c
 #include "bettersyntax.h"
 
-int main() {
+int main()
+{
     print_s("Hello, SyntaX!");
     return 0;
 }
-
-##Programmer
-hypernova-developer
